@@ -13,11 +13,11 @@ client.on("ready", () => {
   );
   let statuses = [
    
-    `FOG_UP `,
-    `ڕازی کردنی دڵی خەڵکی یاسایەکە شمولی من ناکات`,
-    `★✰𝐋𝐄𝐕𝐄𝐋 𝐃𝐋𝐌 𝐔𝐏✰★`,
-    `NAQEB_UP`,
-    `PERYA’m HAMW KASM❤`,
+    `4H_UP `,
+    `1M_UP`,
+    `★✰LEO 𝐃𝐋𝐌 𝐔𝐏✰★`,
+    `IM_NOT_BOT`,
+    `....’m HAMW KASM❤`,
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
